@@ -16,7 +16,7 @@ Evaluation Metric: Multiclass Log Loss
 -	tps5-dtandrf-costsenstivelearning.ipynb
     - Decision Tree
     - Random Forest with Cost Sensitive Learning 
-    - Hyperparameter tuning wiht GridSearch
+    - Hyperparameter tuning with GridSearch
 -	tps5-xgboost-commented.ipynb --- published on Kaggle, Silver Medal
     - XGBoost
     - Oversampling with SMOTE
